@@ -2,6 +2,7 @@
 
 This repository contains a **3D scene built with Three.js** as a learning project.  
 The goal of this project is to practice **3D graphics, animations, and modular JavaScript development** using modern web tools.
+![Paisaje 3D](/dist/assets/paisaje.jpeg)
 
 ## Features
 
