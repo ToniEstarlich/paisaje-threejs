@@ -38,14 +38,22 @@ project-root/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/threejs-practice.git
-cd threejs-practice
+git clone https://github.com/ToniEstarlich/paisaje-threejs.git
+cd paisaje-threejs
 ```
 2. Install dependencies:
 ```bash
+npm install
+
 ```
 3. Start the development server
 ```bash
+npm run dev
+```
+Or with Yarn
+```bash
+yarn dev
+
 ```
 4. Open the URL displayed in your terminal (usually http://localhost:5173) to see the scene.
 
