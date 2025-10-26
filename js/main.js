@@ -30,7 +30,7 @@ controls.dampingFactor = 0.05;
 controls.enablePan = true;
 controls.minDistance = 5;
 controls.maxDistance = 50;
-controls.target.set(0,3,-5);
+controls.target.set(0,1,0);
 controls.update();
 
 // Light

@@ -4,6 +4,15 @@ This repository contains a **3D scene built with Three.js** as a learning projec
 The goal of this project is to practice **3D graphics, animations, and modular JavaScript development** using modern web tools.
 ![Paisaje 3D](/dist/assets/paisaje.jpeg)
 
+# 3D Object & Character Editor - Gnome Example
+
+We add this **3D editor** built with **Three.js** to create and animate objects and characters.  
+As an example, we have created a **gnome character** with animated arms, legs, and hat.
+
+## Preview
+
+![Gnome Preview](/dist/assets/gnome.jpeg)
+
 ## Features
 
 - Interactive 3D scene with **trees, mountains, and birds**.  
@@ -20,15 +29,18 @@ The goal of this project is to practice **3D graphics, animations, and modular J
 project-root/
 │
 ├─ index.html
+├─ editor.html
 ├─ package.json
 ├─ js/
 │ ├─ main.js
+  ├─ editor.js
 │ ├─ camera.js
 │ ├─ scene.js
 │ ├─ ground.js
 │ ├─ sky.js
 │ ├─ animate.js
 │ └─ objects/
+  ├─ gnome.js
 │ ├─ mountain.js
 │ ├─ tree.js
 │ └─ bird.js
